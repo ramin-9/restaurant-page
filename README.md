@@ -12,10 +12,7 @@ A simple, responsive restaurant website built with HTML, CSS, and JavaScript.
 - [Usage](#usage)  
 - [Project Structure](#project-structure)  
 - [Technologies Used](#technologies-used)  
-- [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Author](#author)  
+ 
 
 ## Project Description
 
@@ -41,3 +38,33 @@ To run this project locally, you only need a web browser. Optionally, you may us
    ```bash
    git clone https://github.com/ramin-9/restaurant-page.git
 
+## Usage
+
+Once the project is open in your browser (or running via a local server), you can:
+
+- Navigate between pages via the menu  
+- View the restaurant’s menu section  
+- Use the contact page to display contact details  
+
+Feel free to fork the repository and customise it with your own design, images, or content.
+
+---
+
+## Project Structure
+
+```bash
+restaurant-page/
+├── css/
+│ └── style.css
+├── images/
+│ └── (restaurant-images here)
+├── js/
+│ └── script.js
+├── index.html
+├── menu.html
+└── contact.html
+```
+## Technologies used
+- HTML5
+- CSS3
+- JavaScript (ES6+) webpack
